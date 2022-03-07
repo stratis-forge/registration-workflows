@@ -1,1 +1,1 @@
-# registration-workflows
+# STRATIS-forge image registration workflows
